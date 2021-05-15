@@ -7,7 +7,7 @@ import java.util.ArrayList;
  */
 public class hellp {
     public static void main(String[] args){
-        int num1=3,num2=4;
+        int num1=3,num2=222222222222222222222;
         //模板sout soutp soutm soutv  xxx.sout  fori iter test
         System.out.println();
         System.out.println("args = [" + args + "]");
